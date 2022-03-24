@@ -1,31 +1,49 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Cloud DevOps Engineer Certificate from Udacity
+date: 2020-07-16 16:11:00-0400
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+This is a <a href="https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991">Nanodegree Program</a> provided by Udacity. During this program, I learned to design and deploy infrastructure as code, build and monitor CI/CD pipelines for different deployment strategies, and deployed scalable microservices using Kubernetes. At the end of the program, I also combineed my new skills by completing a capstone project. See below for more details. :sparkles: :smile:
+
+> Check my Graduate <a href="https://graduation.udacity.com/confirm/RTTSRJKE">Certificate</a>
+
 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
+#### What I learned
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>Cloud Foundations</li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+Learn the fundamentals of cloud computing while being introduced to compute power, security, storage, networking, messaging, and management services in the cloud.
 
 ***
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+<ul>
+    <li>Deploy Infrastructure as Code (IAC)</li>
+</ul>
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+In this course, you’ll learn how to deploy the underlying infrastructure components that provide security and services to our servers by writing scripts using CloudFormation, AWS’ tool for Infrastructure as Code. You will use CloudFormation to deploy Infrastructure patterns that are used in the industry broadly and can be readily used to deploy any cloud application. Like in the real world, you will begin with initial business requirements that you will turn into Cloud Architecture Diagrams. Then you will deploy this architecture using CloudFormation.
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+***
+
+<ul>
+    <li>Build CI/CD Pipelines, Monitoring & Logging</li>
+</ul>
+
+Learn how to stretch for Continuous Delivery as your “true north” while you build CI/CD systems that automate the “stuff” between developers and the cloud. You’ll gain essential knowledge and put it into practice as you learn about Continuous Integration and Continuous Deployment. You’ll combine your existing knowledge of Cloud Formation and AWS with new tools like Ansible and Circle CI. You’ll also learn how to keep an eye on your deployments with proactive monitoring and alerting.
+
+
+***
+
+<ul>
+    <li>Microservices at Scale using Kubernetes</li>
+</ul>
+
+In this course, you learn to create and deploy a kubernetes cluster, configure kubernetes autoscale and load test a kubernetes application. You’ll learn to operationalize both existing and new microservices and apply containers best practices. You’ll learn to deploy Machine Learning microservices that are elastic and fault tolerant. You’ll learn to pick the appropriate abstraction for microservices: Serverless (AWS Lambda) or Container Orchestration (Kubernetes).
+
+***
+
+

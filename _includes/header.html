@@ -22,12 +22,15 @@
             <span class="icon-bar bottom-bar"></span>
           </button>
 
+          <div class="navbar-brand social">
+            {% include social.html %}
+          </div>
           <div class="collapse navbar-collapse text-right" id="navbarNav">
             <ul class="navbar-nav ml-auto flex-nowrap">
 
               <!-- About -->
               <li class="nav-item {% if page.title == 'about' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/' | relative_url }}">about
+                <a class="nav-link" href="{{ '/' | relative_url }}">About
                   {%- if page.title == "about" -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -36,7 +39,7 @@
               {% if site.blog_name %}
               <!-- Blog -->
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/blog/' | relative_url }}">blog
+                <a class="nav-link" href="{{ '/blog/' | relative_url }}">Blog
                   {%- if page.title == "blog" -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
