@@ -6,7 +6,7 @@ subtitle: Staff Software Engineer in Test, <a href=https://www.okta.com/>Okta, I
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   address: >
     <p>700 K St NW, 5th Floor</p>
     <p>Washington, D.C, 20001</p>
