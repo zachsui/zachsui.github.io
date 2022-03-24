@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Staff Softengineer in Test, <a href=https://www.okta.com/>Okta, Inc.</a>
+subtitle: Staff Software Engineer in Test, <a href=https://www.okta.com/>Okta, Inc.</a>
 
 profile:
   align: right
