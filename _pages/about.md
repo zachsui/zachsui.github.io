@@ -18,11 +18,28 @@ enable_navbar_social: true
 linkedin_username: zsui # includes social icons at the bottom of the page
 ---
 
+### About Me
+
 Hi there, my name is Zach Sui (隋欣航 in Chinese). I am a Staff Software Engineer in Test at [Okta](https://www.okta.com) since July 2021. Before joining Okta, I was working as a Lead Automation Engineer at [Cvent](https://www.cvent.com) from Feb 2016 to July 2021. I also worked as an Associate Softwaare Engineer at [The Advisory Board Company](https://www.advisory.com/) from July 2015 to Jan 2016.
 
-**Automate everything** is my philosophy, I love leveraging automation technics like Selenium, Jenkins, Docker, Jenkins and AWS, I also enjoy learning new programming languages, now I am actively learning Python and Golang.
+
+### My beliefs as a Software Engineer
+
+- **Any codebase should come with some documentation, at least documentation that describes what it does and gets it up and running.** This is a lifesaver. I frequently find myself thanking me in the past for writing docs.
+
+- **Pushing for automation whenever I find myself doing something repeatedly** - because this is a strong sign that a computer can do it for me - and with less likelihood of making an error. **Automate everything** is my philosophy, I love leveraging automation technics like Selenium, Jenkins, Docker, Jenkins and AWS.
+
+- **Monitoring and logging are absolutely critical.** Otherwise you will be flying blind and not knowing where to start debugging the system when shit hits the fan.
+
+- Tests **NEED** maintenance. A lesson taught by one of my mentors at my final internship, which rang true over time. Going excessive with tests likely means that a lot of tests have to updated during major refactorings.
+
+- **I am strongly for open source software.** Having studied a few of them, I can attest that I have learnt a lot from reading code written by people who are way better than myself. It is not an exaggeration to say that the world will be very different without Linux, vim, Apache, Perl, etc and everything else that came from them.
+
+### My background
 
 I earned my Master degree in Electrical Computer Engineering from [The State University of New York, University at Buffalo](https://www.buffalo.edu/) in 2015, and I got my Bachlor degree in Electrical Information Engineering from [Beijing University of Technology](https://www.bjut.edu.cn/) in 2013. After undergraduate study, I worked as a intern at [Datang Telecom Technology](https://www.datang.com/).
+
+### Life
 
 Me and my family are living in Virginia, in my spare time we will visit museums in Washington, D.C., my favorite one is The East Building of [National Gallery of Art](https://en.wikipedia.org/wiki/National_Gallery_of_Art). We really enjoy searching yummy foods near DMV area, you can also find me hiking many of the beautiful trails at [Shenandoah National Park](https://www.nps.gov/shen/index.htm).
 
