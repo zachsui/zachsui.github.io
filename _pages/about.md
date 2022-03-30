@@ -17,11 +17,19 @@ social: true
 enable_navbar_social: true 
 linkedin_username: zsui # includes social icons at the bottom of the page
 ---
+&nbsp;
 
 ### About Me
 
-Hi there, my name is Zach Sui (隋欣航 in Chinese). I am a Staff Software Engineer in Test at [Okta](https://www.okta.com) since July 2021. Before joining Okta, I was working as a Lead Automation Engineer at [Cvent](https://www.cvent.com) from Feb 2016 to July 2021. I also worked as an Associate Softwaare Engineer at [The Advisory Board Company](https://www.advisory.com/) from July 2015 to Jan 2016.
+**Update (Feb 2022):** Hi there, my name is Zach Sui (隋欣航 in Chinese). I am a Staff Software Engineer in Test at [Okta](https://www.okta.com). Before joining Okta, I was working as a Lead Automation Engineer at [Cvent](https://www.cvent.com) from 2016 to 2021. I also worked as an Associate Softwaare Engineer at [The Advisory Board Company](https://www.advisory.com/) from July 2015 to Jan 2016.
 
+
+&nbsp;
+
+### My Background
+I earned my Master degree in Electrical Computer Engineering from [The State University of New York, University at Buffalo](https://www.buffalo.edu/) in 2015, and I got my Bachlor degree in Electrical Information Engineering from [Beijing University of Technology](https://www.bjut.edu.cn/) in 2013. After undergraduate study, I worked as a intern at [Datang Telecom Technology](https://www.datang.com/).
+
+&nbsp;
 
 ### My beliefs as a Software Engineer
 
@@ -35,11 +43,9 @@ Hi there, my name is Zach Sui (隋欣航 in Chinese). I am a Staff Software Engi
 
 - **I am strongly for open source software.** Having studied a few of them, I can attest that I have learnt a lot from reading code written by people who are way better than myself. It is not an exaggeration to say that the world will be very different without Linux, vim, Apache, Perl, etc and everything else that came from them.
 
-### My background
+&nbsp;
 
-I earned my Master degree in Electrical Computer Engineering from [The State University of New York, University at Buffalo](https://www.buffalo.edu/) in 2015, and I got my Bachlor degree in Electrical Information Engineering from [Beijing University of Technology](https://www.bjut.edu.cn/) in 2013. After undergraduate study, I worked as a intern at [Datang Telecom Technology](https://www.datang.com/).
-
-### Life
+### My Life
 
 Me and my family are living in Virginia, in my spare time we will visit museums in Washington, D.C., my favorite one is The East Building of [National Gallery of Art](https://en.wikipedia.org/wiki/National_Gallery_of_Art). We really enjoy searching yummy foods near DMV area, you can also find me hiking many of the beautiful trails at [Shenandoah National Park](https://www.nps.gov/shen/index.htm).
 
