@@ -11,8 +11,10 @@ This is a <a href="https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd99
 
 
 ***
-
+&nbsp;
 #### What I learned
+&nbsp;
+
 <ul>
     <li>Cloud Foundations</li>
 </ul>
