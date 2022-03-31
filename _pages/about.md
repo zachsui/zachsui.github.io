@@ -27,7 +27,7 @@ linkedin_username: zsui # includes social icons at the bottom of the page
 &nbsp;
 
 ### My Background
-I earned my Master degree in Electrical Computer Engineering from [The State University of New York, University at Buffalo](https://www.buffalo.edu/) in 2015, and I got my Bachlor degree in Electrical Information Engineering from [Beijing University of Technology](https://www.bjut.edu.cn/) in 2013. After undergraduate study, I worked as a intern at [Datang Telecom Technology](https://www.datang.com/).
+I earned my Master degree in Electrical Computer Engineering from [The State University of New York, University at Buffalo](https://www.buffalo.edu/) in 2015, and I got my Bachlor degree in Electrical Information Engineering from [Beijing University of Technology](https://www.bjut.edu.cn/) in 2013. After undergraduate study, I worked as a Software R&D Engineer at Financial Business Department of [Datang Telecom Technology](https://www.datang.com/).
 
 &nbsp;
 
