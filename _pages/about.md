@@ -48,9 +48,3 @@ Now I am pursuing my Master degree of Computer Science at [The Georgia Institute
 ### My Life
 
 Me and my family are living in Virginia, in my spare time we will visit museums in Washington, D.C., my favorite one is The East Building of [National Gallery of Art](https://en.wikipedia.org/wiki/National_Gallery_of_Art). We really enjoy searching yummy foods near DMV area, you can also find me hiking many of the beautiful trails at [Shenandoah National Park](https://www.nps.gov/shen/index.htm).
-
-#### Analytics of this website
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzachsui%2Fzachsui.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
