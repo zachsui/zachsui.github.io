@@ -21,7 +21,7 @@ linkedin_username: zsui # includes social icons at the bottom of the page
 
 ### About Me
 
-**Update (Feb 2022):** Hi there, my name is Zach Sui (隋欣航 in Chinese). Now I am working as Staff Software Engineer in Test at [Okta](https://www.okta.com). Before joining Okta, I was working as a Lead Automation Engineer at [Cvent](https://www.cvent.com) from 2016 to 2021. I also worked as an Associate Softwaare Engineer at [The Advisory Board Company](https://www.advisory.com/) from July 2015 to Jan 2016.
+**Update (Feb 2022):** Hi there, my name is Zach Sui (隋欣航 in Chinese). Now I am working as Staff Software Engineer in Test at [Okta](https://www.okta.com). Before joining Okta, I was working as a Lead Automation Engineer at [Cvent](https://www.cvent.com) from 2016 to 2021. I also worked as an Associate Software Engineer at [The Advisory Board Company](https://www.advisory.com/) from July 2015 to Jan 2016.
 
 
 &nbsp;
