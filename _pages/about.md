@@ -37,11 +37,7 @@ Now I am pursuing my Master degree of Computer Science at [The Georgia Institute
 
 - **Pushing for automation whenever I find myself doing something repeatedly** - because this is a strong sign that a computer can do it for me - and with less likelihood of making an error. **Automate everything** is my philosophy, I love leveraging automation technics like Selenium, Jenkins, Docker, Jenkins and AWS.
 
-- **Monitoring and logging are absolutely critical.** Otherwise you will be flying blind and not knowing where to start debugging the system when shit hits the fan.
-
 - Tests **NEED** maintenance. A lesson taught by one of my mentors at my final internship, which rang true over time. Going excessive with tests likely means that a lot of tests have to updated during major refactorings.
-
-- **I am strongly for open source software.** Having studied a few of them, I can attest that I have learnt a lot from reading code written by people who are way better than myself. It is not an exaggeration to say that the world will be very different without Linux, vim, Apache, Perl, etc and everything else that came from them.
 
 &nbsp;
 
